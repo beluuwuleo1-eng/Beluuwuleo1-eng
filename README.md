@@ -9,6 +9,7 @@
 * **Programming Languages:** JavaScript, TypeScript, Kotlin, HTML, CSS
 * **Environments & OS:** Arch Linux, Linux Core
 * **Platforms & Focus:** Discord Modding Ecosystems, Keyless AI Architectures, Android Optimization, VS Code
+* **my own search engine: [orbit] (https://orbit-sand-pi.vercel.app)**
 
 ---
 
