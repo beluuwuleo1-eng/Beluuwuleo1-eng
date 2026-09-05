@@ -45,3 +45,5 @@
 <p align="center">
   <sub>Built on Arch Linux • Stay curious.</sub>
 </p>
+
+[![arch](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
